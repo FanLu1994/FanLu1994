@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 #### 当前工作:
 
-- 上海F4之一 游戏小QA
+- 游戏小QA
 
