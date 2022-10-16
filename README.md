@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 - 代码 :computer:
 - 部分游戏 :video_game:
 - 宅家 :house:
+- 播客or电影or阅读
 
 #### 当前技术:
 
-- python 常用
-- vue 常用
-- java 个人爱好
-- go 偶尔用
+- 测试平台前后端开发（vue/python）
+- 服务器性能测试(go/prometheus/grafana)
+- electron开发
 
 #### 当前工作:
 
-- 游戏小QA
+- 游戏测试开发
 
