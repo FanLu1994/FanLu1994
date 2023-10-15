@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 #### 当前技术:
 
 - 前端（vue/electron）
-- 后端(go/python)
-- 其他(linux/prometheus/grafana)
-- 学习中(unity/ue4/...)
+- 后端 (go/python)
+- 其他 (linux/prometheus/grafana)
+- 学习中 (unity/ue4/...)
 
 #### 当前工作:
 
