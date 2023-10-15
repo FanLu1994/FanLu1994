@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 #### 兴趣: 
 
 - 搞钱 :money_with_wings: 
-- 代码 :computer:
-- 部分游戏 :video_game:
+- game :computer:
 - 宅家 :house:
-- 播客or电影or阅读
+- 阅读\播客
 
 #### 当前技术:
 
-- 测试平台前后端开发（vue/python）
-- 服务器性能测试(go/prometheus/grafana)
-- electron开发
+- 前端（vue/electron）
+- 后端(go/python)
+- 其他(linux/prometheus/grafana)
+- 学习中(unity/ue4/...)
 
 #### 当前工作:
 
